@@ -7,3 +7,14 @@ First Git file
 Earth Information Center
 For more than 50 years, NASA satellites have provided data on Earth's land, water, air, temperature, and climate. NASA's Earth Information Center allows visitors to see how our planet is changing in six key areas: sea level rise and coastal impacts, health and air quality, wildfires, greenhouse gases, sustainable energy, and agriculture.
 
+###Hydrophone link
+
+https://technology.nasa.gov/patent/LAR-TOPS-321
+
+#### Infrasound
+
+https://technology.nasa.gov/patent/LAR-TOPS-106
+
+#### adding text to test the reset functionality
+adding text to test the reset functionality
+
